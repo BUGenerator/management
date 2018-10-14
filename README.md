@@ -1,2 +1,2 @@
-# web
-web of EC601 group project
+# EC601-Web
+Web of EC601 group project
